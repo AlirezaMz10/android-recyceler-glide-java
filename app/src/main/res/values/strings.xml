@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">RecycelerGlid</string>
+
+    <string-array name="links">
+        <item>
+            https://mz10.ir/img/1.png
+        </item>
+
+        <item>
+           https://mz10.ir/img/2.jpeg
+        </item>
+
+        <item>
+            https://mz10.ir/img/3.jpeg
+        </item>
+
+        <item>
+            https://mz10.ir/img/4.jpeg
+        </item>
+
+        <item>
+            https://mz10.ir/img/5.jpeg
+        </item>
+
+        <item>
+            https://mz10.ir/img/6.jpeg
+        </item>
+
+        <item>
+            https://mz10.ir/img/7.jpg
+        </item>
+
+        <item>
+            https://mz10.ir/img/8.jpeg
+        </item>
+
+        <item>
+            https://mz10.ir/img/9.jpeg
+        </item>
+
+        <item>
+            https://mz10.ir/img/10.jpg
+        </item>
+
+        <item>
+            https://mz10.ir/img/11.jpeg
+        </item>
+
+        <item>
+            https://mz10.ir/img/12.jpeg
+        </item>
+
+        <item>
+            https://mz10.ir/img/13.jpeg
+        </item>
+
+        <item>
+            https://mz10.ir/img/13.jpeg
+        </item>
+
+        <item>
+            https://mz10.ir/img/14.jpeg
+        </item>
+
+
+    </string-array>
+    <string-array name="usernames">
+    <item>
+        Alireza Mz
+    </item>
+
+        <item>
+        ItzMz
+        </item>
+
+        <item>
+            Pedram ft
+        </item>
+
+        <item>
+            ItzPedi
+        </item>
+
+        <item>
+            Koorosh
+        </item>
+
+        <item>
+            Amir
+        </item>
+
+        <item>
+            Unix
+        </item>
+
+        <item>
+            Reza Luci
+        </item>
+
+        <item>
+            Sam
+        </item>
+
+        <item>
+            Farhad
+        </item>
+
+        <item>
+            Amir Vp
+        </item>
+
+        <item>
+            Pouya Mn
+        </item>
+
+        <item>
+            Sahand
+        </item>
+
+        <item>
+            Saeid
+        </item>
+
+        <item>
+            Shervin
+        </item>
+
+        <item>
+            mostafa
+        </item>
+
+        <item>
+            mojtaba
+        </item>
+
+        <item>
+            Nima
+        </item>
+
+        <item>
+            Mahan
+        </item>
+
+        <item>
+            Hamid
+        </item>
+    </string-array>
+
+
+</resources>
